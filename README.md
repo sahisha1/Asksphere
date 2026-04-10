@@ -140,25 +140,3 @@
 
 ---
 
-## 🏗 Architecture
-knowledger/
-│
-├── smart_app.py                 # Main application
-├── styles.css                   # UI styling
-├── requirements.txt             # Python dependencies
-├── .env                         # API keys (gitignored)
-├── README.md                    # This file
-│
-├── data/                        # Document storage
-│   ├── company_policies.txt
-│   ├── engineering_guidelines.txt
-│   └── salary_bands.txt
-│
-├── meetings/                    # Saved meeting transcripts
-│   └── *.txt
-│
-├── meetings_database.json       # Meeting analysis storage
-├── expertise_data.json          # Expert tracking data
-├── actions.json                 # Action item storage
-│
-└── slack_export.json            # Sample Slack data
