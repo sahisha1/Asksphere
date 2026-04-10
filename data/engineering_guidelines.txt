@@ -1,0 +1,31 @@
+# ENGINEERING DEPARTMENT - TECHNICAL GUIDELINES
+
+## CODE REVIEW POLICY
+All pull requests require at least 2 approvals before merging
+Code review response time: Within 4 hours during work hours
+Senior engineers must review at least 5 PRs per week
+Automated tests must pass before any PR is merged
+
+## DEPLOYMENT PROCESS
+Production deployments happen on Tuesdays and Thursdays only
+Deployment window: 2 PM to 4 PM
+Rollback plan must be documented before each deployment
+Staging environment must be tested for 24 hours before production
+
+## TECH STACK
+Backend: Python 3.11, Django 4.2, PostgreSQL 15
+Frontend: React 18, TypeScript, Tailwind CSS
+Infrastructure: AWS (EC2, RDS, S3), Docker, Kubernetes
+Monitoring: Datadog, Sentry, New Relic
+
+## ON-CALL ROTATION
+Primary on-call: 7 days rotation (Monday to Sunday)
+Secondary on-call: Available for backup
+On-call compensation: $500 per week + overtime pay
+Critical incidents must be acknowledged within 15 minutes
+
+## SECURITY REQUIREMENTS
+All code must pass security scanning before deployment
+Annual security training mandatory for all engineers
+Security vulnerabilities: Critical must be fixed within 24 hours
+Access to production requires manager approval and MFA

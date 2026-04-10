@@ -1,0 +1,20 @@
+# Company Vacation Policy
+
+Employees get 20 days of paid vacation per year.
+Managers get 25 days of paid vacation per year.
+Vacation requests must be approved by your manager at least 2 weeks in advance.
+Unused vacation days expire at the end of the year.
+
+# Remote Work Policy
+
+All employees can work remotely on Mondays and Fridays.
+Managers must be in office Tuesday-Thursday.
+Software engineers have flexible hours between 10 AM - 4 PM core hours.
+Sales team must attend all client meetings in person.
+
+# Salary Information (Confidential - Managers Only)
+
+Entry-level engineers: $80,000 - $100,000
+Senior engineers: $120,000 - $150,000
+Managers: $140,000 - $180,000
+Bonuses are 10-20% based on performance.

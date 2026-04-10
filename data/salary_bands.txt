@@ -1,0 +1,27 @@
+# CONFIDENTIAL - SALARY BANDS 2025
+# Access restricted to Managers, HR, and Executives only
+
+## ENGINEERING
+Entry Level Software Engineer: $85,000 - $110,000
+Software Engineer: $110,000 - $140,000
+Senior Software Engineer: $140,000 - $180,000
+Staff Engineer: $180,000 - $220,000
+Principal Engineer: $220,000 - $280,000
+
+## PRODUCT
+Associate Product Manager: $75,000 - $95,000
+Product Manager: $95,000 - $130,000
+Senior Product Manager: $130,000 - $165,000
+Director of Product: $165,000 - $210,000
+
+## MANAGEMENT
+Engineering Manager: $160,000 - $200,000
+Senior Engineering Manager: $200,000 - $250,000
+Director of Engineering: $250,000 - $320,000
+VP of Engineering: $320,000 - $400,000
+
+## ANNUAL BONUS TARGETS
+Individual Contributor: 10-15%
+Manager Level: 15-20%
+Director Level: 20-30%
+Executive Level: 30-50%

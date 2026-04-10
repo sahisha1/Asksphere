@@ -1,0 +1,31 @@
+# Core RAG Framework
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.0
+
+# Vector Database (Free, runs locally)
+chromadb==0.4.22
+
+# Embeddings (Free, runs locally)
+sentence-transformers==2.2.2
+
+# LLM (Free API - Groq)
+groq==0.4.2
+
+# Document Loaders
+pypdf==3.17.4
+python-docx==1.1.0
+markdown==3.5.1
+slack-sdk==3.27.0
+PyGithub==2.1.1
+
+# Web Framework (for API)
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# UI (Simple but powerful)
+streamlit==1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+tiktoken==0.5.1

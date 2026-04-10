@@ -1,0 +1,84 @@
+{
+  "Knowledge Base": {
+    "topics": {
+      "10-20%": 10,
+      "least": 10,
+      "between": 10,
+      "client": 10,
+      "(confidential": 10,
+      "attend": 10,
+      "approved": 10,
+      "engineers": 10,
+      "vacation": 10,
+      "meetings": 10
+    },
+    "total_points": 100
+  },
+  "sahisha ": {
+    "topics": {
+      "flask": 10,
+      "programming": 10,
+      "file": 10,
+      "python": 10,
+      "django": 10,
+      "create": 10,
+      "called": 10,
+      "development": 10
+    },
+    "documents": [
+      "sahisha.pdf"
+    ],
+    "total_score": 80
+  },
+  "alice@company.com": {
+    "topics": {
+      "kubernetes": 2,
+      "failed": 2,
+      "memory": 2,
+      "migration": 2,
+      "schema": 2,
+      "documented": 2
+    },
+    "total_points": 12
+  },
+  "bob@company.com": {
+    "topics": {
+      "fixed": 2,
+      "validation": 2,
+      "authentication": 2
+    },
+    "total_points": 6
+  },
+  "carol@company.com": {
+    "topics": {
+      "policy": 2,
+      "vacation": 2,
+      "reminder": 2
+    },
+    "total_points": 6
+  },
+  "david@company.com": {
+    "topics": {
+      "policy": 2,
+      "fridays": 2,
+      "wfh": 2
+    },
+    "total_points": 6
+  },
+  "sahisha": {
+    "topics": {
+      "create": 10,
+      "development": 10,
+      "flask": 10,
+      "django": 10,
+      "called": 10,
+      "file": 10,
+      "python": 10,
+      "programming": 10
+    },
+    "documents": [
+      "sahisha.pdf"
+    ],
+    "total_score": 80
+  }
+}
