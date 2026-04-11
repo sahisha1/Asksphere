@@ -9,22 +9,7 @@
 
 ![KnowLedger Demo](https://img.shields.io/badge/Demo-Available-brightgreen)
 
-## 📌 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [API Keys Setup](#-api-keys-setup)
-- [Testing](#-testing)
-- [Screenshots](#-screenshots)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
----
 
 ## 🎯 Overview
 
